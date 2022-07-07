@@ -1,5 +1,8 @@
 # NewsApp
-News App | Bootstrap | REACT JS | 
+# BOOTSTRAP | REACT JS 
+News App | BOOTSTRAP | REACT JS |
+# Class Based Components
+
 
 # Getting Started with Create React App
 
