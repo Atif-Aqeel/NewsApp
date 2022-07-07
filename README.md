@@ -1,4 +1,4 @@
 # NewsApp
 # BOOTSTRAP | REACT JS 
-News App | BOOTSTRAP | REACT JS |
+BOOTSTRAP | REACT JS | Class Based Components
 # Class Based Components
